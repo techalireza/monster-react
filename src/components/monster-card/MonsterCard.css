@@ -1,0 +1,12 @@
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    text-align: center;
+}
+.grid-item h1{
+    font-size: 1.5rem;
+}
+.grid-item p{
+    font-size: .8rem;
+}
